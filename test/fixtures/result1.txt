@@ -1,0 +1,436 @@
+/*O_o*/
+google.search.cse.api13312({
+  "cursor": {
+    "currentPageIndex": 1,
+    "estimatedResultCount": "655",
+    "moreResultsUrl": "http://www.google.com/cse?oe=utf8&ie=utf8&source=uds&q=elixir&safe=off&start=10&sort=date&cx=010150859881542981030:hqhxyxpwtc4",
+    "resultCount": "655",
+    "searchResultTime": "0.21",
+    "pages": [
+      {
+        "label": 1,
+        "start": "0"
+      },
+      {
+        "label": 2,
+        "start": "10"
+      },
+      {
+        "label": 3,
+        "start": "20"
+      },
+      {
+        "label": 4,
+        "start": "30"
+      },
+      {
+        "label": 5,
+        "start": "40"
+      },
+      {
+        "label": 6,
+        "start": "50"
+      },
+      {
+        "label": 7,
+        "start": "60"
+      },
+      {
+        "label": 8,
+        "start": "70"
+      },
+      {
+        "label": 9,
+        "start": "80"
+      },
+      {
+        "label": 10,
+        "start": "90"
+      }
+    ]
+  },
+  "context": {
+    "title": "Speaker Deck",
+    "total_results": "0"
+  },
+  "results": [
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:RxMSiry-UdEJ:speakerdeck.com",
+      "clicktrackUrl": "https://www.google.com/url?q=https://speakerdeck.com/keathley/building-resilient-elixir-systems&sa=U&ved=0ahUKEwjpkN2-uOjfAhUKZVAKHdKzA3E4ChAWCAUwAA&client=internal-uds-cse&cx=010150859881542981030:hqhxyxpwtc4&usg=AOvVaw3-LcBImMOslNk8NHWMPkwi",
+      "content": "Oct 26, 2018 \u003cb\u003e...\u003c/b\u003e This was my attempt at describing a methodology for building systems in \u003cb\u003eelixir\u003c/b\u003e \nthat can handle failures at all levels. It touches on technology&nbsp;...",
+      "contentNoFormatting": "Oct 26, 2018 ... This was my attempt at describing a methodology for building systems in elixir \nthat can handle failures at all levels. It touches on technology ...",
+      "formattedUrl": "https://speakerdeck.com/keathley/building-resilient-\u003cb\u003eelixir\u003c/b\u003e-systems",
+      "title": "Building Resilient \u003cb\u003eElixir\u003c/b\u003e Systems - Speaker Deck",
+      "titleNoFormatting": "Building Resilient Elixir Systems - Speaker Deck",
+      "unescapedUrl": "https://speakerdeck.com/keathley/building-resilient-elixir-systems",
+      "url": "https://speakerdeck.com/keathley/building-resilient-elixir-systems",
+      "visibleUrl": "speakerdeck.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://secure.gravatar.com/avatar/06f8b41980eb4c577fa40c41d5030c19?s=128"
+        },
+        "metatags": {
+          "twitterCreator": "@speakerdeck",
+          "statsTalkId": "472782",
+          "twitterSite": "@speakerdeck",
+          "twitterTitle": "Building Resilient Elixir Systems",
+          "ogTitle": "Building Resilient Elixir Systems",
+          "statsOwnerId": "125799",
+          "ogDescription": "Presented at GigCity Elixir - 2018\r\n\r\nThis was my attempt at describing a methodology for building systems in elixir that can handle failures at all levels. It touches on technology solutions as well as how to engage humans in those solutions.",
+          "ogImage": "https://speakerd.s3.amazonaws.com/presentations/ee1735a8f9bd42ff8d4938975c9827dc/slide_0.jpg?472525",
+          "csrfParam": "authenticity_token",
+          "ogType": "website",
+          "twitterImageSrc": "https://speakerd.s3.amazonaws.com/presentations/ee1735a8f9bd42ff8d4938975c9827dc/slide_0.jpg?472525",
+          "twitterCard": "summary_large_image",
+          "csrfToken": "BQI0hAroAiUSWKm9Z8VC8hoAo0DApMQwNFpQIY5yiHlsq9JRBJ0fdU9v06LlAigf3FsKiF3BTjAqiqa1fXLMpw==",
+          "viewport": "width=device-width, initial-scale=1, user-scalable=no, viewport-fit=cover",
+          "ogAuthor": "https://www.facebook.com/SpeakerDeck",
+          "twitterDescription": "Presented at GigCity Elixir - 2018\r\n\r\nThis was my attempt at describing a methodology for building systems in elixir that can handle failures at all levels. It touches on technology solutions as well as how to engage humans in those solutions.",
+          "statsViewType": "talk",
+          "ogUrl": "https://speakerdeck.com/keathley/building-resilient-elixir-systems",
+          "ogSiteName": "Speaker Deck"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8jDLLVY1QvJhF2kLb-TyvrLv9JBpwsJqFsDnjSMykK_SNhHKrmNcx_S6S",
+          "width": "128",
+          "height": "128"
+        }
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:7E_IqN3RQYcJ:speakerdeck.com",
+      "clicktrackUrl": "https://www.google.com/url?q=https://speakerdeck.com/philippneugebauer/elixir-and-otp&sa=U&ved=0ahUKEwjpkN2-uOjfAhUKZVAKHdKzA3E4ChAWCAgwAQ&client=internal-uds-cse&cx=010150859881542981030:hqhxyxpwtc4&usg=AOvVaw1FEeZLIVpCNBglWXqGNucJ",
+      "content": "Oct 24, 2018 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eElixir\u003c/b\u003e and OTP. The Erlang ecosystem excels at handling concurrent scenarios \nlike the large chat system WhatsApp. Its paradigms based on&nbsp;...",
+      "contentNoFormatting": "Oct 24, 2018 ... Elixir and OTP. The Erlang ecosystem excels at handling concurrent scenarios \nlike the large chat system WhatsApp. Its paradigms based on ...",
+      "formattedUrl": "https://speakerdeck.com/philippneugebauer/\u003cb\u003eelixir\u003c/b\u003e-and-otp",
+      "title": "\u003cb\u003eElixir\u003c/b\u003e and OTP - Speaker Deck",
+      "titleNoFormatting": "Elixir and OTP - Speaker Deck",
+      "unescapedUrl": "https://speakerdeck.com/philippneugebauer/elixir-and-otp",
+      "url": "https://speakerdeck.com/philippneugebauer/elixir-and-otp",
+      "visibleUrl": "speakerdeck.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://secure.gravatar.com/avatar/140f700db0703975a38481d26b110e50?s=128"
+        },
+        "metatags": {
+          "twitterCreator": "@speakerdeck",
+          "statsTalkId": "472420",
+          "twitterSite": "@speakerdeck",
+          "twitterTitle": "Elixir and OTP",
+          "ogTitle": "Elixir and OTP",
+          "statsOwnerId": "520571",
+          "ogDescription": "The Erlang ecosystem excels at handling concurrent scenarios like the large chat system WhatsApp. Its paradigms based on concurrency differ from your common experience but they will boost your performance and spark your interest after understanding. This talk explains the basic principles of Elixir.\r\n\r\nAfter a brief introduction into Elixir’s syntax, we approach the communication model and then move on to the failure recovery enabled by supervision trees. The talk is concluded by the explanation of hot code swapping.\r\n\r\nThe corresponding code for the talk can be found on GitHub: https://github.com/philippneugebauer/introduction_elixir_otp",
+          "ogImage": "https://speakerd.s3.amazonaws.com/presentations/b28d4c00a62a45c6815ce82142264b25/slide_0.jpg?472163",
+          "csrfParam": "authenticity_token",
+          "ogType": "website",
+          "twitterImageSrc": "https://speakerd.s3.amazonaws.com/presentations/b28d4c00a62a45c6815ce82142264b25/slide_0.jpg?472163",
+          "twitterCard": "summary_large_image",
+          "csrfToken": "/ftgNvStRzdCGX77ImGWxaUiKxvzbJqlwRBDxMzumKf0DjWh7s7F9lsPw7PDOvJBucPviZbboVRaRwuQ15ojGw==",
+          "viewport": "width=device-width, initial-scale=1, user-scalable=no, viewport-fit=cover",
+          "ogAuthor": "https://www.facebook.com/SpeakerDeck",
+          "twitterDescription": "The Erlang ecosystem excels at handling concurrent scenarios like the large chat system WhatsApp. Its paradigms based on concurrency differ from your common experience but they will boost your performance and spark your interest after understanding. This talk explains the basic principles of Elixir.\r\n\r\nAfter a brief introduction into Elixir’s syntax, we approach the communication model and then move on to the failure recovery enabled by supervision trees. The talk is concluded by the explanation of hot code swapping.\r\n\r\nThe corresponding code for the talk can be found on GitHub: https://github.com/philippneugebauer/introduction_elixir_otp",
+          "statsViewType": "talk",
+          "ogUrl": "https://speakerdeck.com/philippneugebauer/elixir-and-otp",
+          "ogSiteName": "Speaker Deck"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDiskghOxTB2g7ieWNFuybmZdEQxPIWGX5CX5jkf048TPEtNkF1ZRqvSE",
+          "width": "128",
+          "height": "128"
+        }
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:8re3WQJXqbsJ:speakerdeck.com",
+      "clicktrackUrl": "https://www.google.com/url?q=https://speakerdeck.com/tgrk/pyladies-2018-elixir-for-pythonistas&sa=U&ved=0ahUKEwjpkN2-uOjfAhUKZVAKHdKzA3E4ChAWCAswAg&client=internal-uds-cse&cx=010150859881542981030:hqhxyxpwtc4&usg=AOvVaw1kOLcpV1G97cqt0b8OOdOz",
+      "content": "Oct 21, 2018 \u003cb\u003e...\u003c/b\u003e Slides from PyLadies Berlin Meetup 2018 talk where I tried to do gentle \nintroduction into Functional Programming, \u003cb\u003eElixir\u003c/b\u003e and BEAM ecosystem&nbsp;...",
+      "contentNoFormatting": "Oct 21, 2018 ... Slides from PyLadies Berlin Meetup 2018 talk where I tried to do gentle \nintroduction into Functional Programming, Elixir and BEAM ecosystem ...",
+      "formattedUrl": "https://speakerdeck.com/tgrk/pyladies-2018-\u003cb\u003eelixir\u003c/b\u003e-for-pythonistas",
+      "title": "PyLadies 2018 - \u003cb\u003eElixir\u003c/b\u003e for Pythonistas - Speaker Deck",
+      "titleNoFormatting": "PyLadies 2018 - Elixir for Pythonistas - Speaker Deck",
+      "unescapedUrl": "https://speakerdeck.com/tgrk/pyladies-2018-elixir-for-pythonistas",
+      "url": "https://speakerdeck.com/tgrk/pyladies-2018-elixir-for-pythonistas",
+      "visibleUrl": "speakerdeck.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://secure.gravatar.com/avatar/891bc719543727c51e5c5a50e8dfea30?s=128"
+        },
+        "metatags": {
+          "twitterCreator": "@speakerdeck",
+          "statsTalkId": "471528",
+          "twitterSite": "@speakerdeck",
+          "twitterTitle": "PyLadies 2018 - Elixir for Pythonistas",
+          "ogTitle": "PyLadies 2018 - Elixir for Pythonistas",
+          "statsOwnerId": "118860",
+          "ogDescription": "Slides from PyLadies Berlin Meetup 2018 talk where I tried to do gentle introduction into Functional Programming, Elixir and BEAM ecosystem for Python developers.\r\n\r\nHands-on session and demo - https://github.com/tgrk/pyladies_elixir",
+          "ogImage": "https://speakerd.s3.amazonaws.com/presentations/1446ee35344e436eab477c52d6d92c2f/slide_0.jpg?471271",
+          "csrfParam": "authenticity_token",
+          "ogType": "website",
+          "twitterImageSrc": "https://speakerd.s3.amazonaws.com/presentations/1446ee35344e436eab477c52d6d92c2f/slide_0.jpg?471271",
+          "twitterCard": "summary_large_image",
+          "csrfToken": "W4y3KV7OGaZG8rLUHZMKslPNzMTJTK3W1Eo/XlpUzNiWtQPHtZHZL6QCYA4wQn6phmfTZQ5SVg8Dd5YRGzG+sQ==",
+          "viewport": "width=device-width, initial-scale=1, user-scalable=no, viewport-fit=cover",
+          "ogAuthor": "https://www.facebook.com/SpeakerDeck",
+          "twitterDescription": "Slides from PyLadies Berlin Meetup 2018 talk where I tried to do gentle introduction into Functional Programming, Elixir and BEAM ecosystem for Python developers.\r\n\r\nHands-on session and demo - https://github.com/tgrk/pyladies_elixir",
+          "statsViewType": "talk",
+          "ogUrl": "https://speakerdeck.com/tgrk/pyladies-2018-elixir-for-pythonistas",
+          "ogSiteName": "Speaker Deck"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6bfVxunmKTkG4JY8A9gHb_k2Ymp8NAKfrCLpETNCil8SLlE5eJsNPvPN2",
+          "width": "128",
+          "height": "128"
+        }
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:WOnTbYnCUxsJ:speakerdeck.com",
+      "clicktrackUrl": "https://www.google.com/url?q=https://speakerdeck.com/bitsch42mclamb&sa=U&ved=0ahUKEwjpkN2-uOjfAhUKZVAKHdKzA3E4ChAWCA4wAw&client=internal-uds-cse&cx=010150859881542981030:hqhxyxpwtc4&usg=AOvVaw3HilFRf9Te3M-WflM9PIGw",
+      "content": "Oct 21, 2018 \u003cb\u003e...\u003c/b\u003e You can also get gems, gold and many more free sources Conflict of Clans Get \nfree golden \u003cb\u003eelixir\u003c/b\u003e plus also cheat and free gems. To have high-degree troops and\n&nbsp;...",
+      "contentNoFormatting": "Oct 21, 2018 ... You can also get gems, gold and many more free sources Conflict of Clans Get \nfree golden elixir plus also cheat and free gems. To have high-degree troops and\n ...",
+      "formattedUrl": "https://speakerdeck.com/bitsch42mclamb",
+      "title": "Presentations by Newell Munksgaard - Speaker Deck",
+      "titleNoFormatting": "Presentations by Newell Munksgaard - Speaker Deck",
+      "unescapedUrl": "https://speakerdeck.com/bitsch42mclamb",
+      "url": "https://speakerdeck.com/bitsch42mclamb",
+      "visibleUrl": "speakerdeck.com",
+      "richSnippet": {
+        "metatags": {
+          "statsPage": "1",
+          "csrfToken": "PUjfB8yFYJrAArp/3PTaKdvHXpJyRM76ZHQO/oq9LhIPTedNZYyGVX+Z6dk5OK9HQ6Dg8ZHDnoN6zb74H2QbSg==",
+          "viewport": "width=device-width, initial-scale=1, user-scalable=no, viewport-fit=cover",
+          "statsViewType": "profile",
+          "statsOwnerId": "489252",
+          "csrfParam": "authenticity_token"
+        }
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:-7uPtxrbHFMJ:speakerdeck.com",
+      "clicktrackUrl": "https://www.google.com/url?q=https://speakerdeck.com/jackson_pires/como-usar-uma-box-vagrant-com-a-cloud9-ide-para-desenvolver-com-elixir-ou-phoenix&sa=U&ved=0ahUKEwjpkN2-uOjfAhUKZVAKHdKzA3E4ChAWCBEwBA&client=internal-uds-cse&cx=010150859881542981030:hqhxyxpwtc4&usg=AOvVaw3r8mK2USuoNudPGsVHo2x5",
+      "content": "15 out. 2018 \u003cb\u003e...\u003c/b\u003e Como usar uma box Vagrant com a Cloud9 IDE para desenvolver com \u003cb\u003eElixir\u003c/b\u003e ou \nPhoenix? Como usar uma box Vagrant com a Cloud9 IDE para&nbsp;...",
+      "contentNoFormatting": "15 out. 2018 ... Como usar uma box Vagrant com a Cloud9 IDE para desenvolver com Elixir ou \nPhoenix? Como usar uma box Vagrant com a Cloud9 IDE para ...",
+      "formattedUrl": "https://speakerdeck.com/.../como-usar-uma-box-vagrant-com-a-cloud9-ide- para-desenvolver-com-\u003cb\u003eelixir\u003c/b\u003e-ou-phoenix",
+      "title": "Como usar uma box Vagrant com a Cloud9 IDE para desenvolver ...",
+      "titleNoFormatting": "Como usar uma box Vagrant com a Cloud9 IDE para desenvolver ...",
+      "unescapedUrl": "https://speakerdeck.com/jackson_pires/como-usar-uma-box-vagrant-com-a-cloud9-ide-para-desenvolver-com-elixir-ou-phoenix",
+      "url": "https://speakerdeck.com/jackson_pires/como-usar-uma-box-vagrant-com-a-cloud9-ide-para-desenvolver-com-elixir-ou-phoenix",
+      "visibleUrl": "speakerdeck.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://speakerd.s3.amazonaws.com/presentations/dfdb0c5377c140299991b9dde5d8b507/slide_0.jpg?470016"
+        },
+        "metatags": {
+          "twitterCreator": "@speakerdeck",
+          "statsTalkId": "470273",
+          "twitterSite": "@speakerdeck",
+          "twitterTitle": "Como usar uma box Vagrant com a Cloud9 IDE para desenvolver com Elixir ou Phoenix?",
+          "ogTitle": "Como usar uma box Vagrant com a Cloud9 IDE para desenvolver com Elixir ou Phoenix?",
+          "statsOwnerId": "112201",
+          "ogDescription": "Como usar uma box Vagrant com a Cloud9 IDE para desenvolver com Elixir ou Phoenix?\r\n\u003e\u003e http://bit.ly/cloud9-elixir",
+          "ogImage": "https://speakerd.s3.amazonaws.com/presentations/dfdb0c5377c140299991b9dde5d8b507/slide_0.jpg?470016",
+          "csrfParam": "authenticity_token",
+          "ogType": "website",
+          "twitterImageSrc": "https://speakerd.s3.amazonaws.com/presentations/dfdb0c5377c140299991b9dde5d8b507/slide_0.jpg?470016",
+          "twitterCard": "summary_large_image",
+          "csrfToken": "4zkOXL2LmLE/0kW9uOKEYCs+6YNEVs3HklTurJMJCYnX0AkMHLb5YqbNDQeHIqNFKteJ1K7is+6NgkFkpKPTkQ==",
+          "viewport": "width=device-width, initial-scale=1, user-scalable=no, viewport-fit=cover",
+          "ogAuthor": "https://www.facebook.com/SpeakerDeck",
+          "twitterDescription": "Como usar uma box Vagrant com a Cloud9 IDE para desenvolver com Elixir ou Phoenix?\r\n\u003e\u003e http://bit.ly/cloud9-elixir",
+          "statsViewType": "talk",
+          "ogUrl": "https://speakerdeck.com/jackson_pires/como-usar-uma-box-vagrant-com-a-cloud9-ide-para-desenvolver-com-elixir-ou-phoenix",
+          "ogSiteName": "Speaker Deck"
+        }
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:WtWq2xVHJ2oJ:speakerdeck.com",
+      "clicktrackUrl": "https://www.google.com/url?q=https://speakerdeck.com/overbryd/flow-based-programming-in-elixir&sa=U&ved=0ahUKEwjpkN2-uOjfAhUKZVAKHdKzA3E4ChAWCBQwBQ&client=internal-uds-cse&cx=010150859881542981030:hqhxyxpwtc4&usg=AOvVaw3tZeUo1E2QSipTvjSAXopm",
+      "content": "Oct 10, 2018 \u003cb\u003e...\u003c/b\u003e Flow Based Programming in \u003cb\u003eElixir\u003c/b\u003e. An application is defined as its processes \ncommunicating via Information Packets with externally defined&nbsp;...",
+      "contentNoFormatting": "Oct 10, 2018 ... Flow Based Programming in Elixir. An application is defined as its processes \ncommunicating via Information Packets with externally defined ...",
+      "formattedUrl": "https://speakerdeck.com/overbryd/flow-based-programming-in-\u003cb\u003eelixir\u003c/b\u003e",
+      "title": "Flow Based Programming in \u003cb\u003eElixir\u003c/b\u003e - Speaker Deck",
+      "titleNoFormatting": "Flow Based Programming in Elixir - Speaker Deck",
+      "unescapedUrl": "https://speakerdeck.com/overbryd/flow-based-programming-in-elixir",
+      "url": "https://speakerdeck.com/overbryd/flow-based-programming-in-elixir",
+      "visibleUrl": "speakerdeck.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://secure.gravatar.com/avatar/171de85d4d79cb7afe725174fb099137?s=128"
+        },
+        "metatags": {
+          "twitterCreator": "@speakerdeck",
+          "statsTalkId": "469363",
+          "twitterSite": "@speakerdeck",
+          "twitterTitle": "Flow Based Programming in Elixir",
+          "ogTitle": "Flow Based Programming in Elixir",
+          "statsOwnerId": "24324",
+          "ogDescription": "An application is defined\u2028\r\nas its processes\u2028\r\ncommunicating\u2028\r\nvia Information Packets\u2028\r\nwith externally defined connections.\r\n\r\nThis talk was held at the #52 Elixir User Group Berlin on October 11, 2018.\r\n\r\nhttps://github.com/suitepad-gmbh/pipette\r\nhttps://hexdocs.pm/pipette/Pipette.html\r\n\r\nGoogle Bot Verification Example\r\nhexdocs.pm/pipette/google_bot_verification.html",
+          "ogImage": "https://speakerd.s3.amazonaws.com/presentations/36f1239c858e455aae41392d213aa39c/slide_0.jpg?469106",
+          "csrfParam": "authenticity_token",
+          "ogType": "website",
+          "twitterImageSrc": "https://speakerd.s3.amazonaws.com/presentations/36f1239c858e455aae41392d213aa39c/slide_0.jpg?469106",
+          "twitterCard": "summary_large_image",
+          "csrfToken": "B+a1wUaFtphuAvkYGHCq1BREQgCu1oQCcRcC+xD3aZ+eSPPELNJvcFWamHl/PtbrPgDUPiaxRjJY3h5AkjDrRA==",
+          "viewport": "width=device-width, initial-scale=1, user-scalable=no, viewport-fit=cover",
+          "ogAuthor": "https://www.facebook.com/SpeakerDeck",
+          "twitterDescription": "An application is defined\u2028\r\nas its processes\u2028\r\ncommunicating\u2028\r\nvia Information Packets\u2028\r\nwith externally defined connections.\r\n\r\nThis talk was held at the #52 Elixir User Group Berlin on October 11, 2018.\r\n\r\nhttps://github.com/suitepad-gmbh/pipette\r\nhttps://hexdocs.pm/pipette/Pipette.html\r\n\r\nGoogle Bot Verification Example\r\nhexdocs.pm/pipette/google_bot_verification.html",
+          "statsViewType": "talk",
+          "ogUrl": "https://speakerdeck.com/overbryd/flow-based-programming-in-elixir",
+          "ogSiteName": "Speaker Deck"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjlDS8NaFpzjgmOgcDvr7WfHlZfWhdjF0pQB_uCSyTmhr3xI5hkNIL_Qw",
+          "width": "128",
+          "height": "128"
+        }
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:62uBm66LibMJ:speakerdeck.com",
+      "clicktrackUrl": "https://www.google.com/url?q=https://speakerdeck.com/wiserfirst/practical-tips-about-with-in-elixir&sa=U&ved=0ahUKEwjpkN2-uOjfAhUKZVAKHdKzA3E4ChAWCBcwBg&client=internal-uds-cse&cx=010150859881542981030:hqhxyxpwtc4&usg=AOvVaw0ytiRvh3sBIg7Gw6IqzIAd",
+      "content": "Oct 2, 2018 \u003cb\u003e...\u003c/b\u003e Presented at October 2018 meetup of \u003cb\u003eElixir\u003c/b\u003e Sydney https://www.meetup.com/\nsydney-ex/events/kznqrpyxnbfb/.",
+      "contentNoFormatting": "Oct 2, 2018 ... Presented at October 2018 meetup of Elixir Sydney https://www.meetup.com/\nsydney-ex/events/kznqrpyxnbfb/.",
+      "formattedUrl": "https://speakerdeck.com/wiserfirst/practical-tips-about-with-in-\u003cb\u003eelixir\u003c/b\u003e",
+      "title": "Practical tips about with (in \u003cb\u003eElixir\u003c/b\u003e) - Speaker Deck",
+      "titleNoFormatting": "Practical tips about with (in Elixir) - Speaker Deck",
+      "unescapedUrl": "https://speakerdeck.com/wiserfirst/practical-tips-about-with-in-elixir",
+      "url": "https://speakerdeck.com/wiserfirst/practical-tips-about-with-in-elixir",
+      "visibleUrl": "speakerdeck.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://secure.gravatar.com/avatar/f9dbde9c6042a54fde3da7ef83ef4bd9?s=128"
+        },
+        "metatags": {
+          "twitterCreator": "@speakerdeck",
+          "statsTalkId": "468376",
+          "twitterSite": "@speakerdeck",
+          "twitterTitle": "Practical tips about with (in Elixir)",
+          "ogTitle": "Practical tips about with (in Elixir)",
+          "statsOwnerId": "466731",
+          "ogDescription": "Presented at October 2018 meetup of Elixir Sydney \r\nhttps://www.meetup.com/sydney-ex/events/kznqrpyxnbfb/",
+          "ogImage": "https://speakerd.s3.amazonaws.com/presentations/6a66aa8d80fe41d280f134a9bd020b58/slide_0.jpg?468120",
+          "csrfParam": "authenticity_token",
+          "ogType": "website",
+          "twitterImageSrc": "https://speakerd.s3.amazonaws.com/presentations/6a66aa8d80fe41d280f134a9bd020b58/slide_0.jpg?468120",
+          "twitterCard": "summary_large_image",
+          "csrfToken": "/T49q5Lo29pd8oNFxnum5Gwf+h0aGpfRr0S4As9Jk1ylbDiCekl4/QSf1G41tr+DpY8LiZzVkMll+oIGS+vKgQ==",
+          "viewport": "width=device-width, initial-scale=1, user-scalable=no, viewport-fit=cover",
+          "ogAuthor": "https://www.facebook.com/SpeakerDeck",
+          "twitterDescription": "Presented at October 2018 meetup of Elixir Sydney \r\nhttps://www.meetup.com/sydney-ex/events/kznqrpyxnbfb/",
+          "statsViewType": "talk",
+          "ogUrl": "https://speakerdeck.com/wiserfirst/practical-tips-about-with-in-elixir",
+          "ogSiteName": "Speaker Deck"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLxc5KTaJmlwEdUqNjj-1KpejZuKO0vCdWV19uY0RY075kcy5JLXqHFbo",
+          "width": "128",
+          "height": "128"
+        }
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:xb85Kosok-sJ:speakerdeck.com",
+      "clicktrackUrl": "https://www.google.com/url?q=https://speakerdeck.com/joaomdmoura/state-machines-in-elixir&sa=U&ved=0ahUKEwjpkN2-uOjfAhUKZVAKHdKzA3E4ChAWCBowBw&client=internal-uds-cse&cx=010150859881542981030:hqhxyxpwtc4&usg=AOvVaw2kCuLTbafpY9KbQofnfX8R",
+      "content": "Sep 21, 2018 \u003cb\u003e...\u003c/b\u003e State Machines in \u003cb\u003eElixir\u003c/b\u003e. Great software should be easy to understand and \nimprove, but usually, developers tend to bring unnecessary&nbsp;...",
+      "contentNoFormatting": "Sep 21, 2018 ... State Machines in Elixir. Great software should be easy to understand and \nimprove, but usually, developers tend to bring unnecessary ...",
+      "formattedUrl": "https://speakerdeck.com/joaomdmoura/state-machines-in-\u003cb\u003eelixir\u003c/b\u003e",
+      "title": "State Machines in \u003cb\u003eElixir\u003c/b\u003e - Speaker Deck",
+      "titleNoFormatting": "State Machines in Elixir - Speaker Deck",
+      "unescapedUrl": "https://speakerdeck.com/joaomdmoura/state-machines-in-elixir",
+      "url": "https://speakerdeck.com/joaomdmoura/state-machines-in-elixir",
+      "visibleUrl": "speakerdeck.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://secure.gravatar.com/avatar/98195776df79590269541395c699f816?s=128"
+        },
+        "metatags": {
+          "twitterCreator": "@speakerdeck",
+          "statsTalkId": "466010",
+          "twitterSite": "@speakerdeck",
+          "twitterTitle": "State Machines in Elixir",
+          "ogTitle": "State Machines in Elixir",
+          "statsOwnerId": "28715",
+          "ogDescription": "Great software should be easy to understand and improve, but usually, developers tend to bring unnecessary complexity to the code base. Building a state machine is one of those things that usually brings a lot of boilerplate and overall complexity with it, but what if we had a better and simple way to build states machines while keeping our sanity, simplicity, and capacity to easily extend it?\r\n\r\nIn this talk we’ll understand state machines: \r\n- how it’s a well-defined concept that developers all around have been using \r\n- how implementing it without thinking about it can lead to some really nasty code smells \r\n- what solutions we have for it in the Elixir ecosystem\r\n\r\nBut we won’t stop there, I’ll also share how I have been through it and solved this problem myself by building an opensource library called Machinery, and how it can help you to build nice, clean and expandable state machines while providing you with some great features.",
+          "ogImage": "https://speakerd.s3.amazonaws.com/presentations/50a67bb834f045599fa05f9725f6f120/slide_0.jpg?465754",
+          "csrfParam": "authenticity_token",
+          "ogType": "website",
+          "twitterImageSrc": "https://speakerd.s3.amazonaws.com/presentations/50a67bb834f045599fa05f9725f6f120/slide_0.jpg?465754",
+          "twitterCard": "summary_large_image",
+          "csrfToken": "v/gFKpLiftqrPBAIc0XT9bC0Wv1msss9DUj1gOaTJGLjCSciJTz9K1ZPdz2GmQ5mncY7KKyafS1x8mqrkqcq4A==",
+          "viewport": "width=device-width, initial-scale=1, user-scalable=no, viewport-fit=cover",
+          "ogAuthor": "https://www.facebook.com/SpeakerDeck",
+          "twitterDescription": "Great software should be easy to understand and improve, but usually, developers tend to bring unnecessary complexity to the code base. Building a state machine is one of those things that usually brings a lot of boilerplate and overall complexity with it, but what if we had a better and simple way to build states machines while keeping our sanity, simplicity, and capacity to easily extend it?\r\n\r\nIn this talk we’ll understand state machines: \r\n- how it’s a well-defined concept that developers all around have been using \r\n- how implementing it without thinking about it can lead to some really nasty code smells \r\n- what solutions we have for it in the Elixir ecosystem\r\n\r\nBut we won’t stop there, I’ll also share how I have been through it and solved this problem myself by building an opensource library called Machinery, and how it can help you to build nice, clean and expandable state machines while providing you with some great features.",
+          "statsViewType": "talk",
+          "ogUrl": "https://speakerdeck.com/joaomdmoura/state-machines-in-elixir",
+          "ogSiteName": "Speaker Deck"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKWMsT4nl-EKP6nyJqPSJdql7yK2nitbi-6qpF69CbjBMlTwVMHSxwUMiO",
+          "width": "128",
+          "height": "128"
+        }
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:4hhotHl6QqgJ:speakerdeck.com",
+      "clicktrackUrl": "https://www.google.com/url?q=https://speakerdeck.com/kay95boyer&sa=U&ved=0ahUKEwjpkN2-uOjfAhUKZVAKHdKzA3E4ChAWCB0wCA&client=internal-uds-cse&cx=010150859881542981030:hqhxyxpwtc4&usg=AOvVaw3ZwtlzHzjkQlLtfajkJlx4",
+      "content": "Sep 12, 2018 \u003cb\u003e...\u003c/b\u003e With this hack no survey software, you can get Unlimited Gems, Gold, \u003cb\u003eElixir\u003c/b\u003e and \nDark \u003cb\u003eElixir\u003c/b\u003e. In coc giveaways.com , we put a number of effort into our Conflict of&nbsp;...",
+      "contentNoFormatting": "Sep 12, 2018 ... With this hack no survey software, you can get Unlimited Gems, Gold, Elixir and \nDark Elixir. In coc giveaways.com , we put a number of effort into our Conflict of ...",
+      "formattedUrl": "https://speakerdeck.com/kay95boyer",
+      "title": "Presentations by Andersson Humphries - Speaker Deck",
+      "titleNoFormatting": "Presentations by Andersson Humphries - Speaker Deck",
+      "unescapedUrl": "https://speakerdeck.com/kay95boyer",
+      "url": "https://speakerdeck.com/kay95boyer",
+      "visibleUrl": "speakerdeck.com",
+      "richSnippet": {
+        "metatags": {
+          "statsPage": "1",
+          "csrfToken": "2TkelDvgJE67su7HXQDIaV34bh/vbh4SUveHkLMH+j4S0lHJBK4roDhKGJ9JqKBXwqXI2JFUB7S/zta61/N4nQ==",
+          "viewport": "width=device-width, initial-scale=1, user-scalable=no, viewport-fit=cover",
+          "statsViewType": "profile",
+          "statsOwnerId": "394691",
+          "csrfParam": "authenticity_token"
+        }
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:uEcjl0D2Ed0J:speakerdeck.com",
+      "clicktrackUrl": "https://www.google.com/url?q=https://speakerdeck.com/kentaktanaka/elixirdeshi-merunnfalseandyan-suan&sa=U&ved=0ahUKEwjpkN2-uOjfAhUKZVAKHdKzA3E4ChAWCCAwCQ&client=internal-uds-cse&cx=010150859881542981030:hqhxyxpwtc4&usg=AOvVaw3MuItOQ8SQ0BztACL-MFQ0",
+      "content": "2018年9月11日 \u003cb\u003e...\u003c/b\u003e ニューラルネットワークを使ってAND演算をしたLT発表のスライドです。言語は\u003cb\u003eElixir\u003c/b\u003eを\n使いました。 4ba0bf90b51ed21e68ad1f864d88e9d8?s=128&nbsp;...",
+      "contentNoFormatting": "2018年9月11日 ... ニューラルネットワークを使ってAND演算をしたLT発表のスライドです。言語はElixirを\n使いました。 4ba0bf90b51ed21e68ad1f864d88e9d8?s=128 ...",
+      "formattedUrl": "https://speakerdeck.com/.../\u003cb\u003eelixir\u003c/b\u003edeshi-merunnfalseandyan-suan",
+      "title": "\u003cb\u003eElixir\u003c/b\u003eで始めるNNのAND演算 - Speaker Deck",
+      "titleNoFormatting": "Elixirで始めるNNのAND演算 - Speaker Deck",
+      "unescapedUrl": "https://speakerdeck.com/kentaktanaka/elixirdeshi-merunnfalseandyan-suan",
+      "url": "https://speakerdeck.com/kentaktanaka/elixirdeshi-merunnfalseandyan-suan",
+      "visibleUrl": "speakerdeck.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://speakerd.s3.amazonaws.com/presentations/736129af6d834bd2954413631efd8cbd/slide_0.jpg?463682"
+        },
+        "metatags": {
+          "twitterCreator": "@speakerdeck",
+          "statsTalkId": "463936",
+          "twitterSite": "@speakerdeck",
+          "twitterTitle": "Elixirで始めるNNのAND演算",
+          "ogTitle": "Elixirで始めるNNのAND演算",
+          "statsOwnerId": "639457",
+          "ogDescription": "ニューラルネットワークを使ってAND演算をしたLT発表のスライドです。言語はElixirを使いました。",
+          "ogImage": "https://speakerd.s3.amazonaws.com/presentations/736129af6d834bd2954413631efd8cbd/slide_0.jpg?463682",
+          "csrfParam": "authenticity_token",
+          "ogType": "website",
+          "twitterImageSrc": "https://speakerd.s3.amazonaws.com/presentations/736129af6d834bd2954413631efd8cbd/slide_0.jpg?463682",
+          "twitterCard": "summary_large_image",
+          "csrfToken": "YD1kWziLkAasRiEiUL4UTClBziA26JmUMdxPv8R5p8z70MnMridjKWRKN4XM8guGvHbXyJrX9XuNznyKboatMQ==",
+          "viewport": "width=device-width, initial-scale=1, user-scalable=no, viewport-fit=cover",
+          "ogAuthor": "https://www.facebook.com/SpeakerDeck",
+          "twitterDescription": "ニューラルネットワークを使ってAND演算をしたLT発表のスライドです。言語はElixirを使いました。",
+          "statsViewType": "talk",
+          "ogUrl": "https://speakerdeck.com/kentaktanaka/elixirdeshi-merunnfalseandyan-suan",
+          "ogSiteName": "Speaker Deck"
+        }
+      }
+    }
+  ]
+});

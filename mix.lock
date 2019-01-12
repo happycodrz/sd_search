@@ -1,0 +1,9 @@
+%{
+  "cortex": {:hex, :cortex, "0.5.0", "7b12ddcfa9fd61521dd3b841ef8a4758ccab895d6a5d4ed181a5a8ad4b4592a4", [:mix], [{:file_system, "~> 0.2", [hex: :file_system, repo: "hexpm", optional: false]}], "hexpm"},
+  "cowlib": {:hex, :cowlib, "2.6.0", "8aa629f81a0fc189f261dc98a42243fa842625feea3c7ec56c48f4ccdb55490f", [:rebar3], [], "hexpm"},
+  "file_system": {:hex, :file_system, "0.2.6", "fd4dc3af89b9ab1dc8ccbcc214a0e60c41f34be251d9307920748a14bf41f1d3", [:mix], [], "hexpm"},
+  "gun": {:hex, :gun, "1.3.0", "18e5d269649c987af95aec309f68a27ffc3930531dd227a6eaa0884d6684286e", [:rebar3], [{:cowlib, "~> 2.6.0", [hex: :cowlib, repo: "hexpm", optional: false]}], "hexpm"},
+  "jason": {:hex, :jason, "1.1.2", "b03dedea67a99223a2eaf9f1264ce37154564de899fd3d8b9a21b1a6fd64afe7", [:mix], [{:decimal, "~> 1.0", [hex: :decimal, repo: "hexpm", optional: true]}], "hexpm"},
+  "machine_gun": {:hex, :machine_gun, "0.1.5", "c87088af87505dc1a44ac6bb5440007ec031378d2c86d5dc1e72bedd457bcd4e", [:mix], [{:gun, "~> 1.3", [hex: :gun, repo: "hexpm", optional: false]}, {:poolboy, "~> 1.5", [hex: :poolboy, repo: "hexpm", optional: false]}], "hexpm"},
+  "poolboy": {:hex, :poolboy, "1.5.1", "6b46163901cfd0a1b43d692657ed9d7e599853b3b21b95ae5ae0a777cf9b6ca8", [:rebar], [], "hexpm"},
+}
