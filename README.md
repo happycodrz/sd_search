@@ -1,6 +1,7 @@
 # SdSearch
 
-**TODO: Add description**
+Search Client for Speakerdeck Google Custom Search
+
 
 ## Installation
 
@@ -18,4 +19,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/sd_search](https://hexdocs.pm/sd_search).
-
