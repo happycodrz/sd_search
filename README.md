@@ -3,6 +3,12 @@
 Search Client for Speakerdeck Google Custom Search
 
 
+## Usage
+
+```elixir
+SdSearch.search "elixir", page: 5
+```
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
