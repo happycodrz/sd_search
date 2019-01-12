@@ -4,7 +4,7 @@ defmodule SdSearch do
   """
   alias SdSearch.Request
 
-  def search(q, opts) do
+  def search(q, opts \\ []) do
     req = Request.new(q, opts)
     url = SdSearch.UrlBuilder.build(req) |> IO.inspect
 

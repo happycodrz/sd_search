@@ -10,7 +10,7 @@ defmodule SdSearch.Request do
       q: q,
       sort: sort,
       num: per_page,
-      start: page * per_page,
+      start: (page - 1) * per_page,
     }
   end
 end
