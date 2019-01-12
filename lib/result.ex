@@ -73,6 +73,11 @@ defmodule SdSearch.Result do
     {:ok, String.slice(text, 0, size - 2)}
   end
 
+
+  def remap_items(res = %{"results" => nil}) do
+    res
+  end
+
   def remap_items(res = %{"results" => results}) do
     results = results |> Enum.map(&SdSearch.ResultItem.from_google/1)
 
