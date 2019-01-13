@@ -22,10 +22,12 @@ defmodule SdSearch.Cache do
   end
 
   def insert(k, v) do
+    ensure_started()
     :ets.insert(@name, {k, v})
   end
 
   def check(key) do
+    ensure_started()
     case :ets.lookup(@name, key) do
       [{^key, v}] -> v
       [] -> nil
