@@ -7,7 +7,7 @@ defmodule SdSearch.Request do
     page = Keyword.get(opts, :page, 1)
     per_page = Keyword.get(opts, :per_page, 10)
     %Request{
-      q: q,
+      q: URI.encode(q),
       sort: sort,
       num: per_page,
       start: (page - 1) * per_page,
