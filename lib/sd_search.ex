@@ -3,16 +3,12 @@ defmodule SdSearch do
   Documentation for SdSearch.
   """
   alias SdSearch.Request
+  alias SdSearch.Http
 
   def search(q, opts \\ []) do
     req = Request.new(q, opts)
-    url = SdSearch.UrlBuilder.build(req) |> IO.inspect
-
-    res = MachineGun.get!(
-      url,
-      [],
-      %{pool_timeout: 1000, request_timeout: 5000, pool_group: :default}
-    )
+    url = SdSearch.UrlBuilder.build(req) |> IO.inspect()
+    res = Http.get(url)
 
     SdSearch.Result.extract(res.body)
   end
