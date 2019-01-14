@@ -6,9 +6,10 @@ defmodule SdSearch do
   alias SdSearch.Http
 
   def search(q, opts \\ []) do
-    req = Request.new(q, opts)
-    url = SdSearch.UrlBuilder.build(req) |> IO.inspect()
-    res = Http.get(url)
+    res =
+      Request.new(q, opts)
+      |> SdSearch.UrlBuilder.build()
+      |> Http.get()
 
     SdSearch.Result.extract(res.body)
   end
